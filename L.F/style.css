@@ -1,4 +1,14 @@
-.cabeçario{
-    background-color: brown;
+{
+margin: 0;
+padding: 0;
+
 }
+.cabeçario{
+    background-color: hsl(0, 59%, 41%);
+color: #070707;
+display:flex
+justify-content
+
+
+}   
 .Imagemalura
